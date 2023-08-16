@@ -17,7 +17,7 @@ font = pygame.font.Font(None, 22)
 
 # Load sound
 pygame.mixer.init()
-sound = pygame.mixer.Sound('bad_apple.wav')  # Replace with your audio file
+sound = pygame.mixer.Sound('bad apple.mp3')  # Replace with your audio file
 
 def print_gray(path):
     chars = ['|', " "]
