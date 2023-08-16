@@ -1,6 +1,6 @@
 # ASCII Bad Apple!! - Recreating the Classic Video with Text Art
 
-Welcome to the ASCII Bad Apple repository, where we embark on a nostalgic journey by reimagining the iconic "Bad Apple!!" music video using the charm of ASCII characters. Immerse yourself in the captivating world of low-resolution artistry as we transform each frame of the original video into an intricate arrangement of text-based pixels.
+Re-create "Bad Apple!!" using the charm of ASCII characters. Immerse yourself in the captivating world of low-resolution artistry as we transform each frame of the original video into an intricate arrangement of text-based pixels.
 
 Our goal is to pay homage to the past while celebrating the creativity and innovation of the present. Dive into the source code and discover how we've meticulously converted the pixel data from the video into carefully chosen ASCII characters, meticulously synchronizing them to the rhythm of the catchy tune.
 
