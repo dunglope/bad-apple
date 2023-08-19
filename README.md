@@ -18,16 +18,23 @@ Whether you're a programming enthusiast, a fan of retro aesthetics, or simply cu
 # Dependencies
 [OpenCV for Python](https://opencv.org)
 
+Pygame
+
 # Clone this Repository
 ```bash
 git clone https://github.com/dunglope/bad-apple.git
 ```
 # Guide
-Make sure you installed OpenCV for Python, you can install via `pip` command
+Make sure you installed OpenCV for Python and Pygame, you can install via `pip` command
 
 ```bash
 pip install opencv-python
 ```
+For Pygame:
+```bash
+pip install pygame
+```
+
 Make sure you are using lastest ```pip``` version. You can check with ```pip -V``` command, mine is 23.1.2
 ```bash
 pip 23.1.2
