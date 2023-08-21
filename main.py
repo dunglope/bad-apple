@@ -51,7 +51,8 @@ for i in range(0, 6572):    # load frames by frames
         p += 1
     
     # Calculate total video duration
-    total_duration = 6576 /1000 * 19  # in seconds, 219 targeted
+    time_delay = 19
+    total_duration = 6576 /1000 * time_delay  # in seconds, 219 targeted
     
     text_surface = font.render(f'Video Length: {total_duration:.2f} seconds', True, (0, 0, 0))
     text_rect = text_surface.get_rect(bottomright=(screen_width - 10, screen_height - 10))
@@ -59,7 +60,7 @@ for i in range(0, 6572):    # load frames by frames
     
     pygame.display.update()
     
-    pygame.time.delay(19)
+    pygame.time.delay(time_delay)
     screen.fill((255, 255, 255))
 
 pygame.quit()
